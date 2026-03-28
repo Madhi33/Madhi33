@@ -15,7 +15,7 @@
   <a href="mailto:madhi333jp@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="25"/>
   </a>
-  <a href="https://github.com/YOUR_GITHUB_USERNAME">
+  <a href="https://github.com/Madhi33">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" height="25"/>
   </a>
 </div>
@@ -23,8 +23,14 @@
 ###
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME&theme=dracula&border_radius=5" height="150"/>
-  <img src="https://github-profile-trophy.vercel.app?username=YOUR_GITHUB_USERNAME&theme=dracula&row=1&column=6" height="150"/>
+  <img src="https://streak-stats.demolab.com?user=Madhi33&theme=dracula&border_radius=5" height="150"/>
+  <img src="https://github-profile-trophy.vercel.app?username=Madhi33&theme=dracula&row=1&column=6" height="150"/>
+</div>
+
+###
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Madhi33&theme=dracula" />
 </div>
 
 ###
@@ -44,17 +50,19 @@
 <h3 align="left">🚀 Projects</h3>
 
 <p align="left">
-🔹 Vaidyog – Healthcare Job Portal (MERN + Payments) <br>
-🔹 24Rides – Real-time Ride Booking Backend (WebSocket) <br>
-🔹 K2K Construction – Multi-role Management System
+🔹 <b>Vaidyog</b> – Healthcare Job Portal (MERN + Payments) <br>
+🔹 <b>24Rides</b> – Real-time Ride Booking Backend (WebSocket) <br>
+🔹 <b>K2K Construction</b> – Multi-role Management System
 </p>
 
 ###
 
+<h3 align="left">🔥 Contribution Graph</h3>
+
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/output/pacman-contribution-graph.svg">
-  <img alt="github contribution graph" src="https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/output/pacman-contribution-graph.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Madhi33/Madhi33/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Madhi33/Madhi33/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Madhi33/Madhi33/output/pacman-contribution-graph.svg">
 </picture>
 
 ###
